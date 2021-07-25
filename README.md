@@ -1,2 +1,3 @@
 # Hello-world
-This is a hello-world-repository
+This is a hello-world-repository. In this repository, I am going to share my experience of learn the embedded system and other software.
+Hello world! :)
